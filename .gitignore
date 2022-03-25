@@ -1,0 +1,12 @@
+
+*.csproj
+*.apk
+**/Library/
+**/Logs/
+**/obj/
+*.so
+**/Temp/
+*.vs
+*.csproj
+*.sln
+
